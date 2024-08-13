@@ -8,8 +8,8 @@
     "start": "node app.js > app.log 2> error.log &"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/saasscaleup/nodejs-aws-codedeploy-pipeline.git"
+    "type": "git",   
+    "url": "git+https://github.com/btechconsults/nodejs-aws-codedeploy-pipeline.git"
   },
   "keywords": [
     "aws",
